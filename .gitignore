@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+public/
+assets/video
+files/
+.DS_Store
+app/.DS_Store
+assets/.DS_Store

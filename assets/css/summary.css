@@ -1,0 +1,26 @@
+.card {
+  box-shadow: 0 1px 2px 1px #d7d8d9;
+  margin-bottom: 20px;
+  max-width: 900px;
+}
+
+.cardTitle {
+  margin-bottom: 14px;
+  overflow: hidden;
+}
+
+.cardTitle > *:first-child {
+  font-size: 14px;
+}
+
+.cardTitle > *:last-child {
+  float: right;
+}
+
+.statistic {
+  margin-bottom: 10px;
+}
+
+.statistic div {
+  margin-bottom: 5px;
+}
